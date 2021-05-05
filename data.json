@@ -26,7 +26,13 @@
                         "children": 
                         [
                             {
-                                "id": 10003,
+                                "id": 1023,
+                                "order": null,
+                                "type": "clarification",
+                                "text": "Since metabolic syndrome is a modern problem, it is logical to assume that modern (not ancient) foods are a major part of the problem."
+                            },
+                            {
+                                "id": 1003,
                                 "order": 1,
                                 "type": "action",
                                 "text": "Reduce excess Polyunsaturated Fatty Acids as much as possible.",
@@ -45,10 +51,16 @@
                                         "text": "Anything cooked at high temperature in these oils are especially bad. e.g. Deep-fried restaurant food."
                                     },
                                     {
+                                        "id": 1024,
+                                        "order": null,
+                                        "type": "clarification",
+                                        "text": "Yes, there is a form of PUFAs that are likely to be healthy, namely Omega-3s. However, the vast majority of PUFAs consumed are Omega-6s. Omega-3s are required in small amounts and foods with significant Omega-3s are typically clearly labelled as such. So, following the recommendation to avoid PUFAs will target Omega-6 overwhelmingly."
+                                    },
+                                    {
                                         "id": 1020,
                                         "order": null,
                                         "type": "clarification",
-                                        "text": "You cannot reduce PUFAs to zero, so don't try. About 1% of your calories will come from PUFAs found naturally in animal fats, olive oil, etc."
+                                        "text": "You cannot reduce PUFAs to zero, so don't try. It is evolutionarily consistent for ~1% of your calories to come from PUFAs found in animal fats, olive oil, etc."
                                     },
                                     {
                                         "id": 1023,
@@ -166,6 +178,26 @@
                         "order": null,
                         "type": "clarification",
                         "text": "In contrast, industrial prepackaged foods are designed to be irresistible, habit forming and only briefly satisfying."
+                    },
+                    {
+                        "id": 1026,
+                        "order": 1,
+                        "type": "action",
+                        "text": "Follow your intuition as to how much to eat (of the right foods within your eating window).",
+                        "children": [
+                            {
+                                "id": 1027,
+                                "order": null,
+                                "type":"clarification",
+                                "text": "If you feel like stuffing yourself before the window closes, do so. This especially makes sense if you've done significant strength training earlier in the day."
+                            },
+                            {
+                                "id": 1027,
+                                "order": null,
+                                "type":"clarification",
+                                "text": "If you feel like skipping some calories, do so."
+                            }
+                        ]
                     }
                 ]
             }
@@ -185,6 +217,28 @@
                 "text": "Move frequently through your current range of motion.",
                 "children":
                 [
+                    {
+                        "id": 1028,
+                        "order": 1,
+                        "type":"action",
+                        "text": "Spend five minutes of every hour rotating your major joints."
+                    }
+                ]
+        
+            },
+            {
+                "id": 1025,
+                "order": 2,
+                "type": "concept",
+                "text": "Challenge the current strength of all your major muscles regularly.",
+                "children":
+                [
+                    {
+                        "id": 1027,
+                        "order": 1,
+                        "type": "action",
+                        "text": "Perform two thirty-minute strength training routines per week."
+                    }
                 ]
         
             }
