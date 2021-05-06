@@ -29,7 +29,7 @@
                                 "id": 1023,
                                 "order": null,
                                 "type": "clarification",
-                                "text": "Since metabolic syndrome is a modern problem, it is logical to assume that modern (not ancient) foods are a major part of the problem."
+                                "text": "Since pervasive metabolic syndrome is a modern problem, it is logical to assume that modern (not ancient) foods are a major part of the problem."
                             },
                             {
                                 "id": 1003,
@@ -65,8 +65,8 @@
                                     {
                                         "id": 1023,
                                         "order": null,
-                                        "type": "reference",
-                                        "text": "[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761560/#S2title)"
+                                        "type": "clarification",
+                                        "text": "Industrial seed oils were introduced to the food supply in the late 19th century and increase rapidly with the introduction of Crisco in 1911. From then until now the consumption of Linoleic acid (the most common Omega-6) [has increased 1000-fold](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761560/#S2title)!"
                                     }
                                 ]
                             },
@@ -214,14 +214,14 @@
                 "id": 1009,
                 "order": 1,
                 "type": "concept",
-                "text": "Move frequently through your current range of motion.",
+                "text": "Frequently move through your current range of motion.",
                 "children":
                 [
                     {
                         "id": 1028,
                         "order": 1,
                         "type":"action",
-                        "text": "Spend five minutes of every hour rotating your major joints."
+                        "text": "For every sedentary hour, spend five minutes of every hour rotating your major joints."
                     }
                 ]
         
