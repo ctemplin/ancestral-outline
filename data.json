@@ -195,7 +195,7 @@
                                 "text": "If you feel like stuffing yourself before the window closes, do so. This especially makes sense if you've done significant strength training earlier in the day."
                             },
                             {
-                                "id": 1027,
+                                "id": 1028,
                                 "order": null,
                                 "type":"clarification",
                                 "text": "If you feel like skipping some calories, do so."
@@ -221,7 +221,7 @@
                 "children":
                 [
                     {
-                        "id": 1028,
+                        "id": 1029,
                         "order": 1,
                         "type":"action",
                         "text": "For every sedentary hour, spend five minutes of every hour rotating your major joints."
