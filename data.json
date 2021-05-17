@@ -1,6 +1,18 @@
 {
     "headerText": "From Modern Disease to Ancestral Health",
     "subheaderText": "An opionated guide to priorities, concepts and strategies.",
+    "extraTabs": [
+        {
+            "order": 1,
+            "name": "Learn More",
+            "content": "__Learn More Content__"
+        },
+        {
+            "order": 2,
+            "name": "Additional Reading",
+            "content": "__Additional Reading Content__"
+        }
+    ],
     "root": [
     {
         "id": 1000,
